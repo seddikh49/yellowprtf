@@ -536,6 +536,12 @@ span:nth-child(2){
         text-align: center;
         font-family: 'cairo', sans-serif;
       }
+@media (max-width:768) {
+    nav {
+        display : none
+    }
+    
+}
 
     
 
